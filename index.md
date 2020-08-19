@@ -7,7 +7,7 @@
 
 ---
 
-### EY - National Tax, Indirect Technology
+### EY - National Tax, Indirect Tax Technology
 • Identify ways to automate manual tasks using existing financial and tax systems, as well as emerging technologies.
 
 •	Improve reporting capabilities to enhance the clients’ ability to evaluate risk and capitalize on fiscal opportunities.
