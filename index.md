@@ -7,10 +7,6 @@
 
 ---
 
-### Here, you can learn about my professional experience working in the realm of data analytics.
-
----
-
 ### EY - National Tax, Indirect Technology
 •	Identify ways to automate manual tasks using existing financial and tax systems, as well as emerging technologies.
 
