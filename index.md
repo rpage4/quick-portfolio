@@ -7,7 +7,7 @@
 
 ---
 
-#### I'm a recent graduate from the Master of Science in Business Analytics program offered by the Simon Business School and an incoming Indirect Tax Technology Consultant in the National Tax Department positioned in the Greater New York City Area. 
+### Here, you can learn about my professional experience working in the realm of data analytics.
 
 ---
 
