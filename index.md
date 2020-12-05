@@ -18,12 +18,19 @@
 
 ### JC Jones - Data Analyst
 • Investigated a firm’s payroll, that at the time was under investigation for insider trading, and visualized deviations, which required accounting for payment gaps and multiple changes in salary occurring around the 2020 pandemic.
+
 • Discovered new leads using functional programming, web scraping, elliptical geometry, and geospatial mapping to gather financial reports of distressed firms, convert xml documentation, and map leads within a specified range.
+
 • Identified errors in legacy code that caused metrics to be mis-reported, corrected code, and streamlined reporting.
+
 • Oversaw data migration initiatives, which involved building out pipelines and databases for storing modified data.
+
 • Automated financial reports by designing and implementing scalable scripts in R for an energy transmission firm.
+
 • Used feature selection and multi-attribute regression to reduce RMSFE and predict store stockouts of fire alarms.
+
 • Eliminated fraud on a client’s company card for un-authorized mileage reimbursements by isolating transactions.
+
 • Assisted in security audits, ensuring compliance with Sarbanes-Oxley requirements through database exploration.
 
 
